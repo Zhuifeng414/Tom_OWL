@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "tom_owl"
+title                    : "Lei(Tom) Wang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "tom_owl"
@@ -114,17 +114,17 @@ analytics:
 # Site Author
 author:
   name             : "Lei(Tom) Wang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.png"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Philadelphia, PA"
+  email            : "tom.lei.wang@temple.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "tom.lei.wang@temple.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://tom_owl414.github.io"
+      url: "https://tom_owl.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Zhuifeng414"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
