@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Lei(Tom) Wang"
-  avatar           : "/assets/images/avatar.png"
+  avatar           : "/assets/images/avatar_small.png"
   bio              : "I am an **amazing** person."
   location         : "Philadelphia, PA"
   email            : "tom.lei.wang@temple.edu"
