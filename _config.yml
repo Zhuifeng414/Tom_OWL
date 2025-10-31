@@ -21,7 +21,7 @@ title                    : "Lei(Tom) Wang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "tom_owl"
-description              : "An amazing website."
+description              : "Perseverance & Conquer"
 url                      : https://zhuifeng414.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true# true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -128,9 +128,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Zhuifeng414"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=GKNeui8AAAAJ&hl=en"
+    - label: "Linkedln"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tom-owl/"
 
 # Site Footer
 footer:
