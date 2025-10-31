@@ -2,8 +2,8 @@
 Hiii ⁍̴̆Ɛ⁍̴̆!!! I am a 4th-year PhD student in Computer and Information Science at Temple University, advised by Prof. [Eduard Dragut](https://cis.temple.edu/~edragut/). I received my Master degree in Artificial Intelligence and Automation from Huazhong Univeristy of Science and Technology advised by Prof. [Min Ouyang](https://scholar.google.com/citations?hl=en&user=1QNTooQAAAAJ). I got my bachelor degree in Electrical Engineering and Automation at Wuhan University of Technology and won the 1st Prize in the Hubei Province Electronic Design Competition in 2014 with an Vision-Based Autonomous Drone system.
 
 My research interests lie in Agentic AI, AI for Education and Social Good. I’m particularly interested in:
-* **Human-AI Collaboration**, especially for Qualitative analysis, Social media content analysis, including complex reasoning, decision-making, planning and interactions. I am excited about how symbolic and probabilistic reasoning tools (via solvers, constraints, uncertainty and causality) can verify and guide an LLM’s reasoning by enabling richer reward signals, more efficient synthetic supervision, better structure learning for abstraction, and stronger and more stable inference.
-* **MLLMs agents & Agentic distillation**, especially how models learn to plan, use external tools, and develop consistent world models. I am interested in how to design targeted environments, structured priors, and feedback loops that help models become more capable and grounded agents, and ultimately self-evolve through continuous interaction and reflection.
+* **Human-AI Collaboration**, especially for Qualitative analysis, Social media content analysis.
+* **MLLMs agents & Agentic distillation**.
   
 🪶 Selected Publication
 ------
