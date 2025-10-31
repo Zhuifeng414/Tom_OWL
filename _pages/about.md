@@ -1,9 +1,11 @@
 ---
-layout: single
-title: "About me"
 permalink: /about/
+title: "About me"
 excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
  
 Hi ⁍̴̆Ɛ⁍̴̆! I am a 4th-year PhD student in Computer and Information Science at Temple University, advised by Prof. [Eduard Dragut](https://cis.temple.edu/~edragut/). I received my Master degree in Artificial Intelligence and Automation from Huazhong Univeristy of Science and Technology advised by Prof. [Min Ouyang](https://scholar.google.com/citations?hl=en&user=1QNTooQAAAAJ). I got my bachelor degree in Electrical Engineering and Automation at Wuhan University of Technology and won the 1st Prize in the Hubei Province Electronic Design Competition in 2014 with an Autonomous Visual Navigation Drone project.
