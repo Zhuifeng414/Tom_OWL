@@ -18,3 +18,10 @@ My research interests lie in Agentic AI, AI for Education and Social Good. I’m
 [The Overlooked Repetitive Lengthening Form in Sentiment Analysis](https://aclanthology.org/2024.findings-emnlp.952.pdf) <br>
 **Lei Wang**, Eduard Dragut <br>
 EMNLP 2024 Findings
+
+
+🚀 Selected Projects & Demos
+------
+Autism-Alexa: This project develops a customized Whisper-based speech recognition model tailored for individuals with autism and seamlessly integrates it with Amazon Alexa, paving the way for autistic individuals to enjoy the convinent of smart home technologies. [Watch our demo.](https://tuprd-my.sharepoint.com/:v:/g/personal/tuq24452_temple_edu/EefYaFmahJVGhe-YKXkKMQQBwpI7RDmeOUOmB3vt7eDqJw?e=iR6unK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+GUI-Crawler: We design an efficient and scalable vision-based GUI-Agent capable of collecting data from websites equipped with SOTA anti-crawling techniques, such as LinkedIn and X.com. [Watch our demo.](https://tuprd-my.sharepoint.com/:v:/g/personal/tuq24452_temple_edu/EefYaFmahJVGhe-YKXkKMQQBwpI7RDmeOUOmB3vt7eDqJw?e=iR6unK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
