@@ -1,5 +1,5 @@
 
-Hi!!! 🦉 I am a 4th-year PhD student in CIS at Temple University, advised by Prof. [Eduard Dragut](https://cis.temple.edu/~edragut/). I received my Master degree in Artificial Intelligence and Automation from Huazhong Univeristy of Science and Technology advised by Prof. [Min Ouyang](https://scholar.google.com/citations?hl=en&user=1QNTooQAAAAJ). I got my bachelor degree in Electrical Engineering and Automation at Wuhan University of Technology.
+Hi!!! 🦉 I am a 4th-year PhD student in CIS at Temple University, advised by Prof. [Eduard Dragut](https://cis.temple.edu/~edragut/). I received my Master degree in Artificial Intelligence and Automation from Huazhong Univeristy of Sci & Tech (HUST) advised by Prof. [Min Ouyang](https://scholar.google.com/citations?hl=en&user=1QNTooQAAAAJ). I got my bachelor degree in Electrical Engineering and Automation at Wuhan University of Technology.
 
 
 I explore Agentic AI for Education, Social Good, and Scientific Research, with my work centered on two main directions:
