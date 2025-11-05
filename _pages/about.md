@@ -1,18 +1,23 @@
 
 Hi!!! 🦉 I am a 4th-year PhD student in CIS at Temple University, advised by Prof. [Eduard Dragut](https://cis.temple.edu/~edragut/). I received my Master degree in Artificial Intelligence and Automation from Huazhong Univeristy of Science and Technology advised by Prof. [Min Ouyang](https://scholar.google.com/citations?hl=en&user=1QNTooQAAAAJ). I got my bachelor degree in Electrical Engineering and Automation at Wuhan University of Technology.
 
-My research interests lie in Agentic AI, AI for Education and Social Good. I’m particularly interested in:
-* **Human-AI Collaboration**, especially for Qualitative analysis, Social media content analysis.
-* **MLLMs agents & Agentic distillation**.
+
+I explore Agentic AI for Education, Social Good, and Scientific Research, with my work centered on two main directions:
+
+- **Agentic AI and Distillation**: Proposing novel Agentic AI methods to address challenges in social content analysis and GUI navigation agents, and distilling agentic reasoning into smaller LLMs through fine-tuning or reinforcement learning (RL).
+
+- **Human-AI Collaboration**: Advancing Agentic AI with human-in-the-loop for qualitative analysis, meme understanding, and long scientific document analysis, pioneering active and efficient self-improvement from human feedback.
+
+
   
 🪶 Selected Publication
 ------
 [A Multi-Task Multi-Agent Pipeline for Multifaceted Meme Understanding] <br>
-**Lei Wang**, Michael West, Zhijia Chen, Eduard Dragut<br>
+first-author paper<br>
 (WWW 2026, Under Review)
 
 [A Multi-Agent Framework for Document-Level Aspect-Based Sentiment Analysis] <br>
-**Lei Wang**, Min Huang, Eduard Dragut<br>
+first-author paper<br>
 (AAAI 2026, Under Review)
 
 [The Overlooked Repetitive Lengthening Form in Sentiment Analysis](https://aclanthology.org/2024.findings-emnlp.952.pdf) <br>
