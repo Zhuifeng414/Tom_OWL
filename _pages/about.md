@@ -12,11 +12,11 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
   
 🪶 Selected Publication
 ------
-[A Multi-Task Multi-Agent Pipeline for Multifaceted Meme Understanding] <br>
+A Multi-Task Multi-Agent Pipeline for Multifaceted Meme Understanding <br>
 first-author paper<br>
 (WWW 2026, Under Review)
 
-[A Multi-Agent Framework for Document-Level Aspect-Based Sentiment Analysis] <br>
+A Multi-Agent Framework for Document-Level Aspect-Based Sentiment Analysis <br>
 first-author paper<br>
 (AAAI 2026, Under Review)
 
@@ -27,6 +27,6 @@ EMNLP 2024 Findings
 
 🚀 Selected Projects & Demos
 ------
-Autism-Alexa: This project develops a customized Whisper-based speech recognition model tailored for individuals with autism and seamlessly integrates it with Amazon Alexa, paving the way for autistic individuals to enjoy the convinent of smart home technologies. [Watch our demo.](https://tuprd-my.sharepoint.com/:v:/g/personal/tuq24452_temple_edu/EefYaFmahJVGhe-YKXkKMQQBwpI7RDmeOUOmB3vt7eDqJw?e=iR6unK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Autism-Alexa: We propose Autism-Whisper, a customized speech recognition model tailored for individuals with autism. We further seamlessly integrates Autism-Whisper with Amazon Alexa, paving the way for autistic individuals to enjoy the convinent of advanced smart home technologies. [Watch our demo.](https://tuprd-my.sharepoint.com/:v:/g/personal/tuq24452_temple_edu/EefYaFmahJVGhe-YKXkKMQQBwpI7RDmeOUOmB3vt7eDqJw?e=iR6unK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-GUI-Crawler: We design an efficient and scalable vision-based GUI-Agent capable of collecting data from websites equipped with SOTA anti-crawling techniques, such as LinkedIn and X.com. [Watch our demo.](https://tuprd-my.sharepoint.com/:v:/g/personal/tuq24452_temple_edu/EVYkR5afmvpBqH0XEACKVzQBwU6ZR0oncUZUEZo9iumFkw?e=Je2kAN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+GUI-Crawler: We design an efficient vision-based GUI-Agent that overcomes SOTA anti-crawling defenses, enabling scalable data collection from complex websites like LinkedIn and X.com. [Watch our demo.](https://tuprd-my.sharepoint.com/:v:/g/personal/tuq24452_temple_edu/EVYkR5afmvpBqH0XEACKVzQBwU6ZR0oncUZUEZo9iumFkw?e=Je2kAN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
