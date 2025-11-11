@@ -10,7 +10,7 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
 
 🌈 Updates
 ------
-- Nov 10, 2025 - Joined [CLunch](https://nlp.cis.upenn.edu/clunch.html) Meeting hosted by [Penn NLP](https://nlp.cis.upenn.edu/), where Dr. Robin Jia from USC.
+- Nov 10, 2025 - Joined [CLunch](https://nlp.cis.upenn.edu/clunch.html) meeting hosted by [Penn NLP](https://nlp.cis.upenn.edu/).
 - Nov 8, 2025 — One paper has been accepted to the AAAI 2026 Main Track.
   
 🪶 Selected Publication
