@@ -16,9 +16,9 @@ A Multi-Task Multi-Agent Pipeline for Multifaceted Meme Understanding <br>
 first-author paper<br>
 (WWW 2026, Under Review)
 
-A Multi-Agent Framework for Document-Level Aspect-Based Sentiment Analysis <br>
-first-author paper<br>
-(AAAI 2026, Under Review)
+DanceHA: A Multi-Agent Framework for Document-Level Aspect-Based Sentiment Analysis <br>
+**Lei Wang**, Min Huang, Eduard Dragut<br>
+AAAI 2026 Main Track (acceptance rate 17.6%), appearing.
 
 [The Overlooked Repetitive Lengthening Form in Sentiment Analysis](https://aclanthology.org/2024.findings-emnlp.952.pdf) <br>
 **Lei Wang**, Eduard Dragut <br>
