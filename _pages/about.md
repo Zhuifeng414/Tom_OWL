@@ -1,18 +1,22 @@
 
-Hi!!! 🦉 I am a 4th-year PhD student in CIS at Temple University, advised by Prof. [Eduard Dragut](https://cis.temple.edu/~edragut/). I received my Master degree in Artificial Intelligence and Automation from Huazhong Univeristy of Sci & Tech (HUST) advised by Prof. [Min Ouyang](https://scholar.google.com/citations?hl=en&user=1QNTooQAAAAJ). I got my bachelor degree in Electrical Engineering and Automation at Wuhan University of Technology.
+Hi!!! I am a 4th-year PhD student in CIS at Temple University 🦉, advised by Prof. [Eduard Dragut](https://cis.temple.edu/~edragut/). I received my Master degree in Artificial Intelligence and Automation from Huazhong Univeristy of Sci & Tech (HUST) advised by Prof. [Min Ouyang](https://scholar.google.com/citations?hl=en&user=1QNTooQAAAAJ). I received my bachelor's degree in Electrical Engineering and Automation from Wuhan University of Technology.
 
 
-I explore Agentic AI for Education, Social Good, and Scientific Research, with my work centered on two main directions:
+I explore Agentic AI for Education, Social Good, and Scientific Research, with my work focusing on two main directions:
 
 - **Agentic AI and Distillation**: Proposing novel Agentic AI methods to address challenges in social content analysis and GUI navigation agents, and distilling agentic reasoning into smaller LLMs through fine-tuning or reinforcement learning (RL).
 
 - **Human-AI Collaboration**: Advancing Agentic AI with human-in-the-loop for qualitative analysis, meme understanding, and long scientific document analysis, pioneering active and efficient self-improvement from human feedback.
 
+🌈 Updates
+------
+[Nov 8, 2025] 
+
 
   
 🪶 Selected Publication
 ------
-A Multi-Task Multi-Agent Pipeline for Multifaceted Meme Understanding <br>
+A Multi-Task Multi-Agent Framework for Meme Understanding <br>
 first-author paper<br>
 (WWW 2026, Under Review)
 
