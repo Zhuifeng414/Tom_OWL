@@ -10,9 +10,7 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
 
 🌈 Updates
 ------
-[Nov 8, 2025] 
-
-
+Nov 8, 2025 — One paper has been accepted to the AAAI 2026 Main Track.
   
 🪶 Selected Publication
 ------
