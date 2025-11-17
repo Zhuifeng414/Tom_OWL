@@ -26,7 +26,7 @@ AAAI 2026 Main Track (acceptance rate 17.6%), appearing.<br>
 
 [The Overlooked Repetitive Lengthening Form in Sentiment Analysis](https://aclanthology.org/2024.findings-emnlp.952.pdf) <br>
 **Lei Wang**, Eduard Dragut <br>
-EMNLP 2024 Findings
+EMNLP 2024 Findings<br>
 [Code and Dataset](https://github.com/Tom-Owl/OverlookedRLF)
 
 
