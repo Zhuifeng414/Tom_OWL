@@ -17,7 +17,7 @@ I explore Agentic AI for Education, Social Good, and Scientific Research, with m
 ------
 A Multi-Task Multi-Agent Framework for Meme Understanding <br>
 first-author paper<br>
-(WWW 2026, Under Review)
+(Under Review)
 
 [DanceHA: A Multi-Agent Framework for Document-Level Aspect-Based Sentiment Analysis](https://github.com/Tom-Owl/DanceHA/blob/main/DanceHA_AAAI26_CR.pdf) <br>
 **Lei Wang**, Min Huang, Eduard Dragut<br>
