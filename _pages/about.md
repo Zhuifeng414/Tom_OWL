@@ -21,7 +21,7 @@ first-author paper<br>
 
 [DanceHA: A Multi-Agent Framework for Document-Level Aspect-Based Sentiment Analysis](https://github.com/Tom-Owl/DanceHA/blob/main/DanceHA_AAAI26_CR.pdf) <br>
 **Lei Wang**, Min Huang, Eduard Dragut<br>
-AAAI 2026 Main Track (acceptance rate 17.6%), appearing.
+AAAI 2026 Main Track (acceptance rate 17.6%), appearing.<br>
 [Code and Dataset](https://github.com/Tom-Owl/DanceHA/tree/main)
 
 [The Overlooked Repetitive Lengthening Form in Sentiment Analysis](https://aclanthology.org/2024.findings-emnlp.952.pdf) <br>
